@@ -1,3 +1,3 @@
-# Movie App 2019
+# nomad_react_2020
 
 React JS Fundamentals Course (2020 Update!)
