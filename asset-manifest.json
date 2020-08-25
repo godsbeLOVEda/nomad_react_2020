@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nomad_react_2020/static/css/main.ad510ee8.chunk.css",
+    "main.js": "/nomad_react_2020/static/js/main.a64eb9e1.chunk.js",
+    "main.js.map": "/nomad_react_2020/static/js/main.a64eb9e1.chunk.js.map",
+    "runtime-main.js": "/nomad_react_2020/static/js/runtime-main.577b3508.js",
+    "runtime-main.js.map": "/nomad_react_2020/static/js/runtime-main.577b3508.js.map",
+    "static/js/2.36bd783a.chunk.js": "/nomad_react_2020/static/js/2.36bd783a.chunk.js",
+    "static/js/2.36bd783a.chunk.js.map": "/nomad_react_2020/static/js/2.36bd783a.chunk.js.map",
+    "index.html": "/nomad_react_2020/index.html",
+    "precache-manifest.21a72f02f5b7bf86c91aff74bb2cda84.js": "/nomad_react_2020/precache-manifest.21a72f02f5b7bf86c91aff74bb2cda84.js",
+    "service-worker.js": "/nomad_react_2020/service-worker.js",
+    "static/css/main.ad510ee8.chunk.css.map": "/nomad_react_2020/static/css/main.ad510ee8.chunk.css.map",
+    "static/js/2.36bd783a.chunk.js.LICENSE.txt": "/nomad_react_2020/static/js/2.36bd783a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.577b3508.js",
+    "static/js/2.36bd783a.chunk.js",
+    "static/css/main.ad510ee8.chunk.css",
+    "static/js/main.a64eb9e1.chunk.js"
+  ]
+}
